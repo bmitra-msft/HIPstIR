@@ -13,7 +13,7 @@ There will be no cost to attend, and no funding will be provided, either.
 
 ### Location and timing
 
-We are planning to have HIPstIR in Portsmouth New Hampshire. We will offer a banquet or brunch at a nearby private beach house.
+We are planning to have HIPstIR in Portsmouth, New Hampshire. We will offer a banquet or brunch at a nearby private beach house.
 
 We are currently considering two date options:
 - Friday Aug 09 4pm - Sunday Aug 11 evening (pre-meeting on Thursday)
