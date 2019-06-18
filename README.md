@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About
+
+The vision of HIPstIR is that young (at heart) IR researchers getting together and develop a future of non-mainstream information retrieval. Important prior research can be discussed in the form of a reading group. A future vision of what IR should or could be (and how it will get there) will be developed.
 
 You can use the [editor on GitHub](https://github.com/bmitra-msft/HIPstIR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,12 +28,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmitra-msft/HIPstIR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
