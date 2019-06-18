@@ -11,7 +11,7 @@ This is a casual event which is nevertheless intended to be productive and purpo
 There will be no cost to attend, and no funding will be provided, either. 
 
 
-## Location and timing
+### Location and timing
 
 We are planning to have HIPstIR in Portsmouth New Hampshire. We will offer a banquet or brunch at a nearby private beach house.
 
@@ -20,10 +20,14 @@ We are currently considering two date options:
 - Friday Sept 20 4pm - Sunday 22 evening (pre-meeting Thursday)
 
 
-## Attendees
+### Attendees
 (Coming soon.)
 
-## (Dis)organizing committee
+
+### (Dis)organizing committee
+
 [Laura Dietz](http://www.cs.unh.edu/~dietz/)
+
 [Bhaskar Mitra](https://www.microsoft.com/en-us/research/people/bmitra/)
+
 [Jeremy Pickens](https://catalystsecure.com/blog/author/jeremy-pickens/)
