@@ -1,3 +1,5 @@
+<img src="hipstir-logo-1.png" alt="HIPstIR logo" width="200"/>
+
 ## About
 
 The vision of HIPstIR is that young (at heart) IR researchers getting together and develop a future of non-mainstream information retrieval. Important prior research can be discussed in the form of a reading group. A future vision of what IR should or could be (and how it will get there) will be developed. It is like [SWIRL](https://sites.google.com/view/swirl3/home) in spirit, but focusing on topics that might otherwise be considered “alternative”, “indie”, or “left field”. 
