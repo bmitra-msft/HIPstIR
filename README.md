@@ -11,7 +11,7 @@ This is a casual event which is nevertheless intended to be productive and purpo
 There will be no cost to attend, and no funding will be provided, either. 
 
 
-<img src="hipstir-logo-1.png" alt="HIPstIR logo" width="200"/>
+<img src="hipstir-logo-3.png" alt="HIPstIR logo" width="200"/>
 
 
 ### Location and dates
