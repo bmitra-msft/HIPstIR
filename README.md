@@ -2,7 +2,7 @@
 
 The vision of HIPstIR is that young (at heart) IR researchers getting together and develop a future of non-mainstream information retrieval. Important prior research can be discussed in the form of a reading group. A future vision of what IR should or could be (and how it will get there) will be developed. It is like [SWIRL](https://sites.google.com/view/swirl3/home) in spirit, but focusing on topics that might otherwise be considered “alternative”, “indie”, or “left field”. 
 
-An explicit goal of the retreat is to forment collaboration and cross-group fertilization. The hope is that participation will give rise to joint paper projects and conference workshop topics.  
+An explicit goal of the retreat is to foment collaboration and cross-group fertilization. The hope is that participation will give rise to joint paper projects and conference workshop topics.  
 
 We primarily focus on young researchers that are anywhere between defending their PhD within 1 year until 1 year into being a tenured professor / senior scientist. We will only invite few senior people.
 
@@ -16,11 +16,7 @@ There will be no cost to attend, and no funding will be provided, either.
 
 ### Location and dates
 
-We are planning to have HIPstIR in Portsmouth, New Hampshire. We will offer a banquet or brunch at a nearby private beach house.
-
-We are currently considering two date options:
-- Friday Aug 09 4pm - Sunday Aug 11 evening (pre-meeting on Thursday)
-- Friday Sept 20 4pm - Sunday 22 evening (pre-meeting Thursday)
+HIPstIR 2019 will take place in Portsmouth, New Hampshire on September 20-22 (Friday to Sunday)--with optional pre-meeting on Thursday. We will offer a banquet or brunch at a nearby private beach house.
 
 
 ### Attendees
