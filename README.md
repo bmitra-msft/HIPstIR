@@ -16,7 +16,7 @@ There will be no cost to attend, and no funding will be provided, either.
 
 ### Location and dates
 
-HIPstIR 2019 will take place in Portsmouth, New Hampshire on September 20-22 (Friday to Sunday)--with optional pre-meeting on Thursday. We will offer a banquet or brunch at a nearby private beach house.
+HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-22 (Friday to Sunday)**--with optional pre-meeting on Thursday. We will offer a banquet or brunch at a nearby private beach house.
 
 
 ### Attendees
