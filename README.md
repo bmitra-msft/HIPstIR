@@ -1,9 +1,3 @@
-<style>
-.site-main table.no-border td {
-    border: none;
-}
-</style>
-
 ## About
 
 The vision of HIPstIR is that young (at heart) IR researchers getting together to develop a future for non-mainstream ideas and research agendas in information retrieval. Important prior research can be discussed in the form of a reading group. A future vision of what IR should or could be (and how it will get there) will be developed. It is like [SWIRL](https://sites.google.com/view/swirl3/home) in spirit, but focusing on topics that might otherwise be considered "niche", "alternative", "indie", or "left field". 
@@ -24,10 +18,16 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 
 ### Attendees
-(Coming soon.)
+(Coming soon)
 
 
 ### (Dis)organizing committee
+
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
 
 | <img src="lauradietz.jpg" alt="Laura Dietz" height="100"/> | <img src="bmitra.jpg" alt="Bhaskar Mitra" height="100"/> | <img src="jeremy_pickens_bg.jpg" alt="Jeremy Pickens" height="100"/> |
 |----|----|----|
