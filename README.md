@@ -23,9 +23,9 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 ### (Dis)organizing committee
 
-<table>
+<table border="0">
 <tr>
-<td> <img src="lauradietz.jpg" alt="Laura Dietz" height="100"/> </td><td> <img src="bmitra.jpg" alt="Bhaskar Mitra" height="100"/> </td><td> <img src="jeremy_pickens_bg.jpg" alt="Jeremy Pickens" height="100"/> </td>
+<td><img src="lauradietz.jpg" alt="Laura Dietz" height="100"/></td><td><img src="bmitra.jpg" alt="Bhaskar Mitra" height="100"/></td><td><img src="jeremy_pickens_bg.jpg" alt="Jeremy Pickens" height="100"/></td>
 </tr><tr>
 <td><a href="http://www.cs.unh.edu/~dietz/">Laura Dietz</a></td><td><a href="https://www.microsoft.com/en-us/research/people/bmitra/">Bhaskar Mitra</a></td><td><a href="https://catalystsecure.com/blog/author/jeremy-pickens/">Jeremy Pickens</a></td>
 </tr>
