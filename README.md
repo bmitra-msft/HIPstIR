@@ -18,7 +18,7 @@ This is a casual event which is nevertheless intended to be productive and purpo
 HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-22 (Friday to Sunday)**.
 
 
-#### What // when // where:
+#### What // When // Where:
 - **Thursday**
   - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (tentative)
 - **Friday**
@@ -29,6 +29,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
   - **Lunch** // When: __ // Where: __
   - **Evening session** // When: __ // Where: __
   - **Dinner** // When: __ // Where: __
+  - **Post dinner** // When: __ // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
 - **Sunday**
   - **Morning session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
 
