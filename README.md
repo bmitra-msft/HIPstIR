@@ -6,8 +6,9 @@ An explicit goal of the retreat is to foment collaboration and cross-group ferti
 
 We primarily focus on young researchers that are anywhere between defending their PhD within 1 year until 1 year into being a tenured professor / senior scientist. We will only invite few senior people.
 
-This is a casual event which is nevertheless intended to be productive and purposeful. No slide presentations are allowed, but a stick and sand will be provided. Attendence will be by invitation. But we are a welcoming bunch--so if you are curious and keen to attend but haven't been invited then drop us a note and we will try our best to accomodate you. **To those attending, remember you were at HIPstIR before it was cool to do so.**
+This is a casual event which is nevertheless intended to be productive and purposeful. No slide presentations are allowed, but a stick and sand will be provided. Attendence will be by invitation. But we are a welcoming bunch--so if you are curious and keen to attend but haven't been invited then drop us a note and we will try our best to accomodate you.
 
+**To those attending, remember you were at HIPstIR before it was cool to do so.**
 
 <img src="hipstir-logo-2.png" alt="HIPstIR logo" width="200"/>
 
@@ -17,8 +18,42 @@ This is a casual event which is nevertheless intended to be productive and purpo
 HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-22 (Friday to Sunday)**.
 
 
+#### What // when // where:
+- **Thursday**
+  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (tentative)
+- **Friday**
+  - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
+  - **Dinner** // When: __ // Where: __ 
+- **Saturday**
+  - **Morning session** // When: 10 AM // Where: __
+  - **Lunch** // When: __ // Where: __
+  - **Evening session** // When: __ // Where: __
+  - **Dinner** // When: __ // Where: __
+- **Sunday**
+  - **Morning session** // When: 10 AM // Where: __
+
+
 ### Attendees
-(Coming soon)
+
+- Sandeep Avula
+- Asia Biega
+- Adrian Boteanu
+- Jeff Dalton
+- Laura Dietz
+- Shiri Dori-Hacohen
+- John Foley
+- Henry Feild
+- Sumanta Kashyapi
+- Widad Machmouchi
+- Bhaskar Mitra
+- Matthew Mitsui
+- Steve Nole
+- Alexandre Tachard Passos
+- Jeremy Pickens
+- Jordan Ramsdell
+- David Smith
+- Alessandro Sordoni
+- Andrew Yates
 
 
 ### (Dis)organizing committee
