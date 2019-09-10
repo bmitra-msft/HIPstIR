@@ -29,6 +29,6 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 
 ### Acknowledgments
-We thank ACM SIGIR, Microsoft, and the University of New Hampshire for the financial support for this event.
+We thank ACM SIGIR, Microsoft, and The University of New Hampshire for financial and logistical support for this event.
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the presenter(s) and do not necessarily reflect the views of the sponsors.
