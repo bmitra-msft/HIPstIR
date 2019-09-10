@@ -27,7 +27,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 - **Saturday**
   - **Morning session** // When: 10 AM // Where: Beach house, Rye
   - **Lunch** // When: __ // Where: __
-  - **Evening session** // When: __ // Where: __
+  - **Afternoon session** // When: __ // Where: __
   - **Dinner** // When: __ // Where: __
   - **Post dinner** // When: __ // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
 - **Sunday**
