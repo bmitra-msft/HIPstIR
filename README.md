@@ -36,25 +36,28 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 ### Attendees
 
-- Sandeep Avula, University of North Carolina
-- Asia Biega, Microsoft
-- Adrian Boteanu, Amazon
-- Jeff Dalton, University of Glasgow
-- Laura Dietz, University of New Hampshire
-- Shiri Dori-Hacohen, AuCoDe
-- John Foley, Smith College
-- Henry Feild, Endicott College
-- Sumanta Kashyapi, University of New Hampshire
-- Widad Machmouchi, Microsoft
-- Bhaskar Mitra, Microsoft
-- Matthew Mitsui, Rutgers University
+- Hana Anber (University of New Hampshire)
+- Sandeep Avula (University of North Carolina)
+- Asia Biega (Microsoft)
+- Adrian Boteanu (Amazon)
+- Shubham Chatterjee (University of New Hampshire)
+- Jeff Dalton (University of Glasgow)
+- Laura Dietz (University of New Hampshire)
+- Shiri Dori-Hacohen (AuCoDe)
+- John Foley (Smith College)
+- Henry Feild (Endicott College)
+- Pallika Kanani (Oracle)
+- Sumanta Kashyapi (University of New Hampshire)
+- Widad Machmouchi (Microsoft)
+- Bhaskar Mitra (Microsoft)
+- Matthew Mitsui (Rutgers University)
 - Steve Nole
-- Alexandre Tachard Passos, Google
-- Jeremy Pickens, OpenText
-- Jordan Ramsdell, University of New Hampshire
-- David Smith, Northeastern University
-- Alessandro Sordoni, Microsoft
-- Andrew Yates, Max Planck Institute for Informatics
+- Alexandre Tachard Passos (Google)
+- Jeremy Pickens (OpenText)
+- Jordan Ramsdell (University of New Hampshire)
+- David Smith (Northeastern University)
+- Alessandro Sordoni (Microsoft)
+- Andrew Yates (Max Planck Institute for Informatics)
 
 
 ### (Dis)organizing committee
