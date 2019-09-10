@@ -29,7 +29,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 </tr><tr>
 <td><a href="http://www.cs.unh.edu/~dietz/">Laura Dietz</a></td><td><a href="https://www.microsoft.com/en-us/research/people/bmitra/">Bhaskar Mitra</a></td><td><a href="https://catalystsecure.com/blog/author/jeremy-pickens/">Jeremy Pickens</a></td>
 </tr><tr>
-<td>(Uni. of New Hampshire)</td><td>(Microsoft, UCL)</td><td>(OpenText)</td>
+<td>(University of New Hampshire)</td><td>(Microsoft, University College London)</td><td>(OpenText)</td>
 </tr>
 </table>
 
