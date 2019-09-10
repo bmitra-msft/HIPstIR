@@ -25,12 +25,12 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
   - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
   - **Dinner** // When: __ // Where: __ 
 - **Saturday**
-  - **Morning session** // When: 10 AM // Where: __
+  - **Morning session** // When: 10 AM // Where: Beach house, Rye
   - **Lunch** // When: __ // Where: __
   - **Evening session** // When: __ // Where: __
   - **Dinner** // When: __ // Where: __
 - **Sunday**
-  - **Morning session** // When: 10 AM // Where: __
+  - **Morning session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
 
 
 ### Attendees
