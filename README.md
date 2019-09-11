@@ -10,7 +10,7 @@ This is a casual event which is nevertheless intended to be productive and purpo
 
 **To those attending, remember you were at HIPstIR before it was cool to do so.**
 
-<img src="hipstir-logo-4.png" alt="HIPstIR logo" width="200"/>
+<img src="hipstir-logo-2.png" alt="HIPstIR logo" width="200"/>
 
 
 ### Location and dates
