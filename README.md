@@ -27,7 +27,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
   - **Post dinner** // When: __ // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
 - **Saturday**
   - **All day session** // When: 10 AM // Where: [Beach house, Rye](https://goo.gl/maps/3CE1CjUWSTonoKDa8) (Address: 1505 Ocean Blvd, Rye, NH 03870 , at the corner of Washington Rd. and Ocean Blvd, which is also called Route 1A)
-  - ~~banquette~~ beachquette (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house
+  - ~~**Banquette**~~ **Beachquette** (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house
 - **Sunday**
   - **Morning session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
 
@@ -55,7 +55,6 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 - Jordan Ramsdell (University of New Hampshire)
 - David Smith (Northeastern University)
 - Alessandro Sordoni (Microsoft)
-- Andrew Yates (Max Planck Institute for Informatics)
 
 
 ### (Dis)organizing committee
