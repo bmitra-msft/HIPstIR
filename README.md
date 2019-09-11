@@ -53,6 +53,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 - Alexandre Tachard Passos (Google)
 - Jeremy Pickens (OpenText)
 - Jordan Ramsdell (University of New Hampshire)
+- Adam Roegiest (Kira Systems)
 - David Smith (Northeastern University)
 - Alessandro Sordoni (Microsoft)
 
