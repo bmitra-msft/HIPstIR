@@ -23,13 +23,11 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
   - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (tentative)
 - **Friday**
   - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
-  - **Dinner** // When: __ // Where: __ 
-- **Saturday**
-  - **Morning session** // When: 10 AM // Where: Beach house, Rye
-  - **Lunch** // When: __ // Where: __
-  - **Afternoon session** // When: __ // Where: __
-  - **Dinner** // When: __ // Where: __
+  - **Dinner** // When: 7 PM (tentative) // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/)
   - **Post dinner** // When: __ // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
+- **Saturday**
+  - **All day session** // When: 10 AM // Where: [Beach house, Rye](https://goo.gl/maps/3CE1CjUWSTonoKDa8) (Address: 1505 Ocean Blvd, Rye, NH 03870 , at the corner of Washington Rd. and Ocean Blvd, which is also called Route 1A)
+  - ~~banquette~~ beachquette (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house
 - **Sunday**
   - **Morning session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) or [The Decks](https://www.goportsmouthnh.com/what-to-do/water/)
 
