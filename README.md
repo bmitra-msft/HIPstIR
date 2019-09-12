@@ -25,12 +25,12 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
   - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com) (address: [105 Daniel St, Portsmouth, NH 03801, USA](https://goo.gl/maps/YVeTkCH2b9LjLRoY9)) // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com) (address: [79 Daniel St, Portsmouth, NH 03801, USA](https://goo.gl/maps/1E1WaigbiD7MkmhQ9)) till our table is ready
   - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801, USA](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
   - **Dinner** // When: 7 PM // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/) (address: [56 Market St, Portsmouth, NH 03801, USA](https://goo.gl/maps/7ueM1Vrcd3Npy1tK7)) // Notes: reservation is under the name "Hipstir"
-  - **Night cap** // When: after dinner // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
+  - **Night cap** // When: after dinner // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (address: [165 High St, Portsmouth, NH 03801, USA](https://goo.gl/maps/4ad4pphqaKbWMeJf6))
 - **Saturday**
-  - **All day session** // When: 10 AM // Where: [Beach house](https://goo.gl/maps/3CE1CjUWSTonoKDa8) (Address: 1505 Ocean Blvd, Rye, NH 03870, at the corner of Washington Rd. and Ocean Blvd., which is also called Route 1A)
-  - ~~**Banquette**~~ **Beachquette** (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: [Beach house](https://goo.gl/maps/3CE1CjUWSTonoKDa8)
+  - **All day session** // When: 10 AM // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870, USA](https://goo.gl/maps/3CE1CjUWSTonoKDa8)) // Notes: location is at the corner of Washington Rd. and Ocean Blvd., which is also called Route 1A)
+  - ~~**Banquette**~~ **Beachquette** (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870, USA](https://goo.gl/maps/3CE1CjUWSTonoKDa8))
 - **Sunday**
-  - **Half day session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com)
+  - **Half day session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801, USA](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
 
 
 ### Attendees
