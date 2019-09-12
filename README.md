@@ -20,11 +20,11 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 #### What // When // Where:
 - **Thursday**
-  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com), 909 Islington St Suite #12, Portsmouth, NH 03801, USA
+  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (address: [909 Islington St Suite #12, Portsmouth, NH 03801, USA](https://goo.gl/maps/Xri2EivnLeiq4uB18))
 - **Friday**
-  - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com) // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com) till our table is ready
-  - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) // Notes: doesn't take reservations, we need to go grab a table
-  - **Dinner** // When: 7 PM // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/) // Notes: reservation under the name "Hipstir"
+  - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com), 105 Daniel St, Portsmouth, NH 03801, USA // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com), 79 Daniel St, Portsmouth, NH 03801, USA till our table is ready
+  - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com), 40 Pleasant St, Portsmouth, NH 03801, USA // Notes: doesn't take reservations, we need to go grab a table
+  - **Dinner** // When: 7 PM // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/), 56 Market St, Portsmouth, NH 03801, USA // Notes: reservation is under the name "Hipstir"
   - **Night cap** // When: after dinner // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
 - **Saturday**
   - **All day session** // When: 10 AM // Where: [Beach house](https://goo.gl/maps/3CE1CjUWSTonoKDa8) (Address: 1505 Ocean Blvd, Rye, NH 03870, at the corner of Washington Rd. and Ocean Blvd., which is also called Route 1A)
