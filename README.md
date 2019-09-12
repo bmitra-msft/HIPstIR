@@ -22,7 +22,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 - **Thursday**
   - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (address: [909 Islington St Suite #12, Portsmouth, NH 03801, USA](https://goo.gl/maps/Xri2EivnLeiq4uB18))
 - **Friday**
-  - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com), 105 Daniel St, Portsmouth, NH 03801, USA // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com), 79 Daniel St, Portsmouth, NH 03801, USA till our table is ready
+  - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com) (address: [105 Daniel St, Portsmouth, NH 03801, USA](https://goo.gl/maps/YVeTkCH2b9LjLRoY9)) // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com) (address: [79 Daniel St, Portsmouth, NH 03801, USA](https://goo.gl/maps/1E1WaigbiD7MkmhQ9)) till our table is ready
   - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com), 40 Pleasant St, Portsmouth, NH 03801, USA // Notes: doesn't take reservations, we need to go grab a table
   - **Dinner** // When: 7 PM // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/), 56 Market St, Portsmouth, NH 03801, USA // Notes: reservation is under the name "Hipstir"
   - **Night cap** // When: after dinner // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (tentative)
