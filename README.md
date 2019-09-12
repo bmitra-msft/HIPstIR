@@ -20,7 +20,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 #### What // When // Where:
 - **Thursday**
-  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com)
+  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com), 909 Islington St Suite #12, Portsmouth, NH 03801, USA
 - **Friday**
   - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com) // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com) till our table is ready
   - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) // Notes: doesn't take reservations, we need to go grab a table
