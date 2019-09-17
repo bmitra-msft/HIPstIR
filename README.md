@@ -49,6 +49,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 - Shiri Dori-Hacohen (AuCoDe)
 - John Foley (Smith College)
 - Henry Feild (Endicott College)
+- Rosie Jones (Spotify)
 - Pallika Kanani (Oracle)
 - Sumanta Kashyapi (University of New Hampshire)
 - Widad Machmouchi (Microsoft)
