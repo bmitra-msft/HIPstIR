@@ -20,7 +20,6 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 #### What // When // Where:
 - **Thursday**
-  - **Pre-pre event arrival** // Notes: if you arrive before 4PM, please go to Laura's home (address: [117 Middle Rd, Portsmouth, NH 03801](https://goo.gl/maps/iJyE75GTmb8HB8y27), APT B, right door); do _not_ go to Middle St.
   - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (address: [909 Islington St Suite #12, Portsmouth, NH 03801](https://goo.gl/maps/Xri2EivnLeiq4uB18)) // Notes: find "Dow’s Automotive"--there is a hand-rail entrance to the left
   - **Dinner** // When: TBD // Where: [STREET eat/drink 360](https://www.streetfood360.com/) (address: [801 Islington St, Portsmouth, NH 03801](https://goo.gl/maps/p5y1NF8mt3YtZHgS7)) // Notes: the plan is tentative and will be confirmed soon
 - **Friday**
