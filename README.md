@@ -20,18 +20,20 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 #### What // When // Where:
 - **Thursday**
-  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (address: [909 Islington St Suite #12, Portsmouth, NH 03801, USA](https://goo.gl/maps/Xri2EivnLeiq4uB18)) // Notes: find "Dow’s Automotive"--there is a hand-rail entrance to the left
+  - **Pre-pre event arrival** // Notes: if you arrive before 4PM, please go to Laura's home (address: [117 Middle Rd, Portsmouth, NH 03801](https://goo.gl/maps/iJyE75GTmb8HB8y27), APT B, right door); do _not_ go to Middle St.
+  - **Pre-event social** (for those arriving early) // When: 4 PM // Where: [Loaded Question microbrewery](https://www.loadedquestionbrewing.com) (address: [909 Islington St Suite #12, Portsmouth, NH 03801](https://goo.gl/maps/Xri2EivnLeiq4uB18)) // Notes: find "Dow’s Automotive"--there is a hand-rail entrance to the left
+  - **Dinner** // When: TBD // Where: [STREET eat/drink 360](https://www.streetfood360.com/) (address: [801 Islington St, Portsmouth, NH 03801](https://goo.gl/maps/p5y1NF8mt3YtZHgS7)) // Notes: the plan is tentative and will be confirmed soon
 - **Friday**
-  - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com) (address: [105 Daniel St, Portsmouth, NH 03801, USA](https://goo.gl/maps/YVeTkCH2b9LjLRoY9)) // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com) (address: [79 Daniel St, Portsmouth, NH 03801, USA](https://goo.gl/maps/1E1WaigbiD7MkmhQ9)) till our table is ready; post-breakfast we will focus on planning for the next couple of days (everyone is welcome to participate), rehash some of the SWIRL III reports, read the pre-submitted pitches, etc.
-  - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801, USA](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
-  - **Pre-dinner drinks** (optional) // Where: [The Riverhouse restaurant](https://riverhouse53bow.com/) (address: [53 Bow St, Portsmouth, NH 03801, USA](https://goo.gl/maps/DvjkNvNR16KWpnup9)) // Notes: downstairs "at the decks", not the restaurant area
-  - **Dinner** // When: 7 PM // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/) (address: [56 Market St, Portsmouth, NH 03801, USA](https://goo.gl/maps/7ueM1Vrcd3Npy1tK7)) // Notes: reservation is under the name "Hipstir"
-  - **Night cap** // When: after dinner // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (address: [165 High St, Portsmouth, NH 03801, USA](https://goo.gl/maps/4ad4pphqaKbWMeJf6))
+  - **Breakfast** (for those who arrive on Thursday) // When: 10 AM // Where: [Colby's](https://colbysportsmouthnh.com) (address: [105 Daniel St, Portsmouth, NH 03801](https://goo.gl/maps/YVeTkCH2b9LjLRoY9)) // Notes: we may gather at [Kaffee vonsolln](https://www.kaffeevonsolln.com) (address: [79 Daniel St, Portsmouth, NH 03801](https://goo.gl/maps/1E1WaigbiD7MkmhQ9)) till our table is ready; post-breakfast we will focus on planning for the next couple of days (everyone is welcome to participate), rehash some of the SWIRL III reports, read the pre-submitted pitches, etc.
+  - **Welcome session** // When: 4 PM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
+  - **Pre-dinner drinks** (optional) // Where: [The Riverhouse restaurant](https://riverhouse53bow.com/) (address: [53 Bow St, Portsmouth, NH 03801](https://goo.gl/maps/DvjkNvNR16KWpnup9)) // Notes: downstairs "at the decks", not the restaurant area
+  - **Dinner** // When: 7 PM // Where: [Portsmouth Brewery](https://portsmouthbrewery.com/) (address: [56 Market St, Portsmouth, NH 03801](https://goo.gl/maps/7ueM1Vrcd3Npy1tK7)) // Notes: reservation is under the name "Hipstir"
+  - **Night cap** // When: after dinner // Where: [Earth Eagle microbrewery](https://www.eartheaglebrewings.com) (address: [165 High St, Portsmouth, NH 03801](https://goo.gl/maps/4ad4pphqaKbWMeJf6))
 - **Saturday**
-  - **All day session** // When: 10 AM // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870, USA](https://goo.gl/maps/3CE1CjUWSTonoKDa8)) // Notes: location is at the corner of Washington Rd. and Ocean Blvd., which is also called Route 1A)
-  - ~~**Banquette**~~ **Beachquette** (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870, USA](https://goo.gl/maps/3CE1CjUWSTonoKDa8))
+  - **All day session** // When: 10 AM // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870](https://goo.gl/maps/3CE1CjUWSTonoKDa8)) // Notes: location is at the corner of Washington Rd. and Ocean Blvd., which is also called Route 1A)
+  - ~~**Banquette**~~ **Beachquette** (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870](https://goo.gl/maps/3CE1CjUWSTonoKDa8))
 - **Sunday**
-  - **Half day session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801, USA](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
+  - **Half day session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
   - **Afternoon session** // Notes: finish discussions and writeups; Explore Portsmouth (Escape room); Lunch and Dinner plans will be announced
 
 
