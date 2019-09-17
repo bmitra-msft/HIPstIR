@@ -32,7 +32,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
   - ~~**Banquette**~~ **Beachquette** (sponsored by Microsoft and ACM SIGIR) // When: 7 PM (tentative) // Where: Beach house (Address: [1505 Ocean Blvd, Rye, NH 03870, USA](https://goo.gl/maps/3CE1CjUWSTonoKDa8))
 - **Sunday**
   - **Half day session** // When: 10 AM // Where: [Book & Bar](http://www.bookandbar.com) (address: [40 Pleasant St, Portsmouth, NH 03801, USA](https://goo.gl/maps/xtgpaY2rWPSsxkc6A)) // Notes: doesn't take reservations, we need to go grab a table
-  - **Afternoon session** // Notes: finish discussions and writeups; Explore Portsmouth (Escape rooom); Lunch and Dinner plans will be announced
+  - **Afternoon session** // Notes: finish discussions and writeups; Explore Portsmouth (Escape room); Lunch and Dinner plans will be announced
 
 
 ### Attendees
