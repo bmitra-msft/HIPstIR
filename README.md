@@ -79,7 +79,7 @@ HIPstIR 2019 will take place in **Portsmouth, New Hampshire** on **September 20-
 
 ### Code of conduct
 
-HIPstIR is dedicated to providing a safe space and an inclusive environment for respectful exchange of ideas where every voice is heard and diversity is celebrated. We will strictly *not tolerate* any behavior deemed abusive, discriminatory, or harassment. As a general guideline, please refer to [ACM's anti-harassment policy](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment).
+HIPstIR is dedicated to providing a safe space and an inclusive environment for respectful exchange of ideas where every voice is heard and diversity is celebrated. **We will strictly not tolerate any behavior deemed abusive, discriminatory, or harassment**. As a general guideline, please refer to [ACM's anti-harassment policy](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment).
 
 
 ### Acknowledgments
