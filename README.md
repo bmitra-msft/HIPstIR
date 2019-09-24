@@ -1,6 +1,9 @@
+
 ## About
 
-The vision of HIPstIR is that young (at heart) IR researchers getting together to develop a future for non-mainstream ideas and research agendas in information retrieval. Important prior research can be discussed in the form of a reading group. A future vision of what IR should or could be (and how it will get there) will be developed. It is like [SWIRL](https://sites.google.com/view/swirl3/home) in spirit but focusing on topics that might otherwise be considered "niche", "alternative", "indie", or "left field". 
+The vision of HIPstIR is that young (at heart) IR researchers getting together to develop a future for non-mainstream ideas and research agendas in information retrieval. Important prior research can be discussed in the form of a reading group. A future vision of what IR should or could be (and how it will get there) will be developed. It is like [SWIRL](https://sites.google.com/view/swirl3/home) in spirit but focusing on topics that might otherwise be considered "niche", "alternative", "indie", or "left field".
+
+<img src="hipstir-logo-2.png" alt="HIPstIR logo" width="200"/>
 
 An explicit goal of the retreat is to foment collaboration and cross-group fertilization. The hope is that participation will give rise to conference workshop topics and joint paper projects.
 
@@ -10,8 +13,18 @@ This is a casual event which is nevertheless intended to be productive and purpo
 
 **To those attending, remember you were at HIPstIR before it was cool to do so.**
 
-<img src="hipstir-logo-2.png" alt="HIPstIR logo" width="200"/>
+### Event photos
 
+<table border="0" align="center">
+  <tr>
+    <td colspan=3><img src="hipstir-2019-group-000.jpg" alt="Group Photo" height="500"/></td>
+</tr>
+<tr>
+  <td colspan=1><img src="hipstir-2019-group-001.jpg" alt="Group Photo" height="100"/></td>
+  <td colspan=1><img src="hipstir-2019-group-002.jpg" alt="Group Photo" height="100"/></td>
+  <td colspan=1><img src="hipstir-2019-group-003.jpg" alt="Group Photo" height="100"/></td>
+</tr>
+</table>
 
 ### Location and dates
 
