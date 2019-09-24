@@ -18,10 +18,10 @@ This is a casual event which is nevertheless intended to be productive and purpo
 <img src="hipstir-2019-group-000.jpg" alt="Group Photo" height="480"/>
 
 <table border="0" align="center">
-  <tr width=500>
-    <td><img src="hipstir-2019-group-001.jpg" alt="Group Photo" height="100"/></td>
-    <td><img src="hipstir-2019-group-002.jpg" alt="Group Photo" height="100"/></td>
-    <td><img src="hipstir-2019-group-003.jpg" alt="Group Photo" height="100"/></td>
+  <tr>
+    <td width="200"><img src="hipstir-2019-group-001.jpg" alt="Group Photo" height="100"/></td>
+    <td width="200"><img src="hipstir-2019-group-002.jpg" alt="Group Photo" height="100"/></td>
+    <td width="200"><img src="hipstir-2019-group-003.jpg" alt="Group Photo" height="100"/></td>
   </tr>
 </table>
 
