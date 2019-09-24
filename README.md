@@ -11,7 +11,7 @@ We primarily focus on young researchers that are anywhere between defending thei
 
 This is a casual event which is nevertheless intended to be productive and purposeful. No slide presentations are allowed, but a stick and sand will be provided. Attendance will be by invitation. But we are a welcoming bunch--so if you are curious and keen to attend but haven't been invited then drop us a note and we will try our best to accommodate you.
 
-**To those attending, remember you were at HIPstIR before it was cool to do so.**
+**To those who attended, remember you were at HIPstIR before it was cool to do so.**
 
 ### Event photos
 
