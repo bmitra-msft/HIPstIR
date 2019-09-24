@@ -17,12 +17,12 @@ This is a casual event which is nevertheless intended to be productive and purpo
 
 <table border="0" align="center">
   <tr>
-    <td colspan=3><img src="hipstir-2019-group-000.jpg" alt="Group Photo" height="500"/></td>
+    <td><img src="hipstir-2019-group-000.jpg" alt="Group Photo" height="500"/></td>
   </tr>
   <tr>
-    <td colspan=1><img src="hipstir-2019-group-001.jpg" alt="Group Photo" height="100"/></td>
-    <td colspan=1><img src="hipstir-2019-group-002.jpg" alt="Group Photo" height="100"/></td>
-    <td colspan=1><img src="hipstir-2019-group-003.jpg" alt="Group Photo" height="100"/></td>
+    <td><img src="hipstir-2019-group-001.jpg" alt="Group Photo" height="100"/></td>
+    <td><img src="hipstir-2019-group-002.jpg" alt="Group Photo" height="100"/></td>
+    <td><img src="hipstir-2019-group-003.jpg" alt="Group Photo" height="100"/></td>
   </tr>
 </table>
 
